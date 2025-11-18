@@ -10,6 +10,8 @@ The pre V1 cradle codebase contains the following main modules:
     - This is a TypeScript API client library for the Cradle Back-End REST API
 5. Cradle Frontend
     - Cradle web-based trading platform for both retail and institutional investors to trade tokenised assets as well collateralize their assets.
+6. Cradle Documentation
+    - Documentation of how Cradle works i.e smart contracts breakdown and client side intergrations.
 
 ### Cradle Contracts
 Cradle Onchain Infrastructure.
@@ -26,3 +28,6 @@ Cradle Onchain Infrastructure.
 
 ### Cradle Frontend
 [git](https://github.com/cradle-labs/cradle-markets-frontend)
+
+### Cradle Docs
+[git](https://github.com/cradle-labs/docs)
